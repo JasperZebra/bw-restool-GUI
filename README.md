@@ -1,5 +1,5 @@
 # Battalion Wars Unified Tool V1.2
-The Battalion Wars Unified Tool combines the restool and the texture convertor that were made by [Yoshi2](https://github.com/RenolY2. It handles RES archive extraction and texture file conversion with automatic game version detection.
+The Battalion Wars Unified Tool combines the restool and the texture convertor that were made by [Yoshi2](https://github.com/RenolY2). It handles RES archive extraction and texture file conversion with automatic game version detection.
 
 # RES Converter Tab
 Extracts `.res` and `.res.gz` archive files from Battalion Wars games.
